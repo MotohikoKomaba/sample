@@ -1,5 +1,7 @@
 # sample
 テストサンプルのリポジトリ
 
-ver1.0.1
-ver1.1.0
+debug ver1.0.1
+debug ver2.0.0
+
+release1.0.0
